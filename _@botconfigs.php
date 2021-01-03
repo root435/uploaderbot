@@ -8,7 +8,7 @@ $bot_token = '1482105344:AAHDj4cEb7ni59Agu5j7reWyHZgVfkBkNa8';
 
 $bot_username = 'bayfilesuploaderprubot';
 
-$sudo_owner = '978649607';
+$sudo_owner = 978649607;
 
 //Do Not Miss slash at starting of command below
 
