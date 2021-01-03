@@ -10,10 +10,16 @@
     "repository": "https://github.com/abhisheksengupt/bayfiles-uploader-bot",
     "success_url": "/",
     "env": {
-        "TG_BOT_TOKEN": {
-            "description": "your Telegram Bot Token, from @BotFather"
+        "bot_id": {
+            "description": "your Telegram Bot userid"
         },
-        "TG_BOT_USERNAME": {
+        "bot_token": {
+            "description": "your telegram bot token from @botfather"
+        },
+        "sudo_owner": {
+            "description": "your username here."
+            
+        "bot_username": {
             "description": "your Telegram Bot UserName, from @BotFather( without @)"
         },
         "TG_DUMP_CHANNEL_ID": {
